@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array[red, pink, green, blue]
-  create_an_array.push yellow
+def create_an_array["red", "pink", "green", "blue"]
+  create_an_array.push ("yellow")
 end
 
 def add_element_to_start_of_array["red", "pink", "green", "blue"]
